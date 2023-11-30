@@ -15,7 +15,7 @@
 .divProjects h3::before{
     position: absolute;
     content: "";
-    background-color: #4bc5e6;
+    background-color: #03c50d;
     width: 90%;
     left: 105%;
     top: 50%;
@@ -25,7 +25,7 @@
 .divProjects h3::after{
     position: absolute;
     content: "";
-    background-color: #4bc5e6;
+    background-color: #03ce0d;
     width: 15px;
     left: 100%;
     top: 30%;
@@ -50,7 +50,7 @@
     padding: 10px;
     border: 1px solid white;
     border-radius: 16px;
-    background-color: #7b3ca5;
+    background-color: #29262b;
 }
 
 .divProject img{
@@ -65,7 +65,7 @@
 }
 
 .divProject h4{
-    color: #4bc5e6;
+    color:  #03ce0d;
     font-family: 'Electrolize', sans-serif;
     font-size: 18px;
     text-align: left;
@@ -78,7 +78,7 @@
 
 .divProject h6{
     font-size: 13px;
-    color: #4bc5e6;
+    color:  #03ce0d;
     font-family: 'Electrolize', sans-serif;
     text-align: left;
 }
@@ -109,7 +109,7 @@
     }
 
     .divProjects h3{
-        color: #4bc5e6;
+        color:  #03ce0d;
         width: 25%;
         margin-right: auto;
         font-size: 40px;
@@ -118,7 +118,7 @@
     .divProjects h3::after{
         position: absolute;
         content: "";
-        background-color: #4bc5e6;
+        background-color:  #03ce0d;
         width: 15px;
         left: 100%;
         top: 36%;
@@ -140,7 +140,7 @@
     }
 
     .divProject:hover{
-        background-color: #5e2e7e;
+        background-color: #000000;
         box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.5);
 
     }

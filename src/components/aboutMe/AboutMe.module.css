@@ -16,7 +16,7 @@
 .AboutDiv h3::before {
     position: absolute;
     content: "";
-    background-color: #4bc5e6;
+    background-color:  #03ce0d;
     width: 100%;
     left: 105%;
     top: 50%;
@@ -26,7 +26,7 @@
 .AboutDiv h3::after {
     position: absolute;
     content: "";
-    background-color: #4bc5e6;
+    background-color: #03ce0d;
     width: 15px;
     left: 100%;
     top: 30%;
@@ -74,7 +74,7 @@
     }
 
     .AboutDiv h3{
-        color: #4bc5e6;
+        color:  #03ce0d;
         width: 25%;
         margin-right: auto;
         font-size: 40px;
@@ -83,7 +83,7 @@
     .AboutDiv h3::after{
         position: absolute;
         content: "";
-        background-color: #4bc5e6;
+        background-color:  #03ce0d;
         width: 15px;
         left: 100%;
         top: 36%;

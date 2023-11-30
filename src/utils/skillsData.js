@@ -4,19 +4,20 @@ import bootstrap from "../assets/bootstrap.png";
 import javascript from "../assets/javascript.png";
 import react from "../assets/react.png";
 import redux from "../assets/redux.png";
-
+import angular from "../assets/angular.png"
 import express from "../assets/express.png";
 import nodejs from "../assets/nodejs.png";
 import postgres from "../assets/postgres.png";
 import sequelize from "../assets/sequelize.png";
-
-import figma from "../assets/figma2.png";
+import next from "../assets/next.png";
+import firebase from "../assets/firebase.png";
+import tennis from "../assets/tennis.png"
 import git from "../assets/git.png";
-import illustrator from "../assets/illustrator.png";
+
 
 // PROJECTS
 
-import pokemon from "../assets/pokemon_project.png";
+import pokemon from "../assets/pokemon.png";
 import fixer from "../assets/fixershoes.png";
 
 export const frontSkills = [
@@ -44,6 +45,14 @@ export const frontSkills = [
     name: "Redux.js",
     img: redux,
   },
+  {
+    name: "Angular.js",
+    img: angular,
+  },
+  {
+    name: "Next.js",
+    img: next,
+  }
 ];
 
 export const backSkills = [
@@ -63,33 +72,40 @@ export const backSkills = [
     name: "Sequelize",
     img: sequelize,
   },
+  
 ];
 
 export const otherSkills = [
   {
-    name: "Figma",
-    img: figma,
+    name: "Firebase",
+    img: firebase,
   },
   {
     name: "Git",
     img: git,
   },
-  {
-    name: "Illustrator",
-    img: illustrator,
-  },
+
 ];
 
 export const projects = [
   {
     name: "Fixer Shoes e-commerce",
     origin:
-      "e-commerce for a Colombian company as part of the final project at soyHenry",
+      "e-commerce for a Colombian company",
     img: fixer,
     description:
       "Single page application, completly functional. with login, database, register of user, dashboards, statistics and much more",
     tech: "React, Redux, Javascript, Tailwind, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
     link: "https://dev.fixershoes.com/",
+  },
+  {
+    name: "Tennis App",
+    origin: "technical test",
+    img: tennis,
+    description:
+    "An intuitive single-page application that allows users to seamlessly register for championships, while providing administrators with efficient tools to manage championships, participants, and scores",
+    tech: "Next.js, Javascript, Tailwind, Firebase, Node.js",
+    link: "https://tennis-championship.vercel.app/",
   },
   {
     name: "Pokemon App",
@@ -98,6 +114,6 @@ export const projects = [
     description:
       "Single page application, with filters and creation form. consuming the pokemon api. Using PostgreSQL to save the created pokemons.",
     tech: "React, Redux, Javascript, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
-    link: "https://pi-pokemons-deploy.vercel.app/home",
+    link: "https://pokemon-project-blue.vercel.app",
   },
 ];

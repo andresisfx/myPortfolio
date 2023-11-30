@@ -24,7 +24,7 @@
     align-items: center;
     padding: 15px;
     border-radius: 16px;
-    background-color: #7b3ca5;
+    background-color: #2b2828;
 }
 
 /* SECTIONS */
@@ -48,7 +48,7 @@
 }
 
 .divSections .activeSection h4 {
-    color: #4bc5e6;
+    color: rgb(12, 199, 28);
 }
 
 .divSections .section h4 {
@@ -93,7 +93,7 @@
         align-items: center;
         padding: 15px;
         border-radius: 16px;
-        background-color: #7b3ca5;
+        background-color: #2a272c;
         height: 300px;
     }
 

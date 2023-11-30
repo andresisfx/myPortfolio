@@ -28,15 +28,15 @@
 
 @keyframes changeColor {
     0% {
-        color: #4692A7;
+        color: #8af874;
     }
 
     50% {
-        color: #66dafa;
+        color: rgb(58, 235, 52);
     }
 
     100% {
-        color: #4692A7;
+        color: #008f00;
     }
 }
 
@@ -116,7 +116,7 @@
         width: 0%;
         top: 0%;
         left: 0;
-        background-color: #7b3ca5;
+        background-color: #19181a;
         z-index: -1;
         transition: 0.6s;
         opacity: 0.5;

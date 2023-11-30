@@ -19,14 +19,14 @@ const NavBar = () => {
     <div className={style.divNavBar}>
       <div className={style.presentation}>
         <h2>Hi, my name is</h2>
-        <span>Marcos José Galliano</span>
+        <span>Andrés Darío Rodríguez</span>
         <h2>I'm a Full Stack Developer</h2>
         <div className={style.icons}>
-          <a href="https://github.com/marcosgalliano" target="_blank">
+          <a href="https://github.com/andresisfx" target="_blank">
             <ion-icon name="logo-github"></ion-icon>
           </a>
           <a
-            href="https://www.linkedin.com/in/marcos-galliano-436220223/"
+            href="https://www.linkedin.com/in/andres-rodriguez-038880238/"
             target="_blank"
           >
             <ion-icon name="logo-linkedin"></ion-icon>

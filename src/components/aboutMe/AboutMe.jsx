@@ -9,18 +9,13 @@ const AboutMe = () => {
       <div className={style.divAboutAndSkills}>
         <div className={style.abouth4}>
           <h4>
-            Hello, I'm Marcos! A passionate full-stack developer based in Buenos
-            Aires, Argentina. After courses in JavaScript, Photoshop, and
-            Illustrator, I found my passion in frontend development.
+           I'm an enthusiastic full-stack developer deeply immersed in the world of technology, driven by an unyielding commitment to continuous learning. My goal is to architect software solutions that solve intricate challenges, and I specialize in harnessing the power of technologies like JavaScript, React-Redux, Express, Node.js, and PostgreSQL to deliver streamlined and inventive outcomes.
           </h4>
           <h4>
-            I completed my training at Coderhouse and further specialized as a
-            full-stack developer at SoyHenry, mastering ReactJS and other
-            frontend technologies.
+          I am actively seeking to contribute my skills and knowledge to a vibrant software development team. My aspiration is to dedicate my utmost effort, in exchange for a fulfilling experience and ongoing personal and professional growth. My dedication to delivering quality, meticulous attention to detail, and adaptability positions me as a valuable asset in any development setting.
           </h4>
           <h4>
-            Now, I'm seeking opportunities to apply and expand my skills in web
-            development after successfully completing my training at SoyHenry.
+          Let's connect and explore possibilities for collaboration, innovation, and making a positive impact in the ever-evolving realm of technology.
           </h4>
         </div>
         <MySkills />

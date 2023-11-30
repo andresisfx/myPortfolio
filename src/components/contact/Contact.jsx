@@ -12,10 +12,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_p69yi3j",
-        "template_ifl1m1e",
+        "service_lu45jpi",
+        "template_udrm6js",
         form.current,
-        "aNJThZ1LzgrCPNyKR"
+        "i-BThYS7b3xiNYIVc"
       )
       .then(
         (result) => {
@@ -45,11 +45,11 @@ const Contact = () => {
         <div className={style.contactIcons}>
           <div className={style.iconContact}>
             <ion-icon name="mail"></ion-icon>
-            <h4>marcosgalliano03@gmail.com</h4>
+            <h4>andresdev78@gmail.com</h4>
           </div>
           <div className={style.iconContact}>
             <ion-icon name="call"></ion-icon>
-            <h4>+54 0 11 6953-5896</h4>
+            <h4>+57 3107422301</h4>
           </div>
         </div>
         <form ref={form} onSubmit={sendEmail}>

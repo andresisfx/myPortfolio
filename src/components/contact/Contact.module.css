@@ -17,7 +17,7 @@
 .contactDiv h3::before {
     position: absolute;
     content: "";
-    background-color: #4bc5e6;
+    background-color: #03ce0d;
     width: 100%;
     left: 105%;
     top: 50%;
@@ -27,7 +27,7 @@
 .contactDiv h3::after {
     position: absolute;
     content: "";
-    background-color: #4bc5e6;
+    background-color:  #03ce0d;
     width: 15px;
     left: 100%;
     top: 30%;
@@ -69,7 +69,7 @@
 }
 
 .contactDiv form input:focus {
-    border: 1px solid #4692a7;
+    border: 1px solid  #03ce0d;
     outline: none;
 }
 
@@ -84,7 +84,7 @@
 
 .contactDiv form textarea:focus {
     outline: none;
-    border: 1px solid #4692a7;
+    border: 1px solid  #03ce0d;
 }
 
 /* INOUT BUTTON */
@@ -128,7 +128,7 @@
     }
 
     .contactDiv h3 {
-        color: #4bc5e6;
+        color:  #03ce0d;
         width: 25%;
         margin-right: auto;
         font-size: 40px;
@@ -137,7 +137,7 @@
     .contactDiv h3::after {
         position: absolute;
         content: "";
-        background-color: #4bc5e6;
+        background-color:  #03ce0d;
         width: 15px;
         left: 100%;
         top: 36%;
@@ -170,7 +170,7 @@
         width: 0%;
         top: 0%;
         left: 0;
-        background-color: #7b3ca5;
+        background-color: rgb(28, 156, 34);
         z-index: -1;
         transition: 0.6s;
         opacity: 0.5;
