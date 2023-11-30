@@ -76,7 +76,7 @@ const MySkills = () => {
                   <h5>{skill.name}</h5>
                   <img src={skill.img} alt="skill" />
                 </div>
-              );
+              );//dfññsfmgmkfkggit 
             })
           )}
         </div>
