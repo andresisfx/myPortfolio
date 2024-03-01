@@ -96,7 +96,7 @@ export const projects = [
     description:
       "Single page application, completly functional. with login, database, register of user, dashboards, statistics and much more",
     tech: "React, Redux, Javascript, Tailwind, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
-    link: "https://dev.fixershoes.com/",
+    link: "https://e-commerce.fixershoes.com/",
   },
   {
     name: "Tennis App",
