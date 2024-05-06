@@ -108,6 +108,15 @@ export const projects = [
     link: "https://tennis-championship.vercel.app/",
   },
   {
+    name: "Yadira Mayac S.A.S",
+    origin: "Single page app for a colombian company",
+    img: pokemon,
+    description:
+      "An informative single-page app with admin roles, login, and upload/download document functionalities. It provides detailed content on a specific topic, allowing users to access, share, and manage relevant files easily ",
+    tech: "Angular.js, Firebase, HTML, CSS-Boostrap",
+    link: "https://yadiramayac.web.app/",
+  },
+  {
     name: "Pokemon App",
     origin: "Individual Project for SoyHenry",
     img: pokemon,
