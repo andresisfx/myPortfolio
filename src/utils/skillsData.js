@@ -13,7 +13,7 @@ import next from "../assets/next.png";
 import firebase from "../assets/firebase.png";
 import tennis from "../assets/tennis.png"
 import git from "../assets/git.png";
-
+import yadira from "../assets/Yadira.png"
 
 // PROJECTS
 
@@ -110,7 +110,7 @@ export const projects = [
   {
     name: "Yadira Mayac S.A.S",
     origin: "Single page app for a colombian company",
-    img: pokemon,
+    img: yadira,
     description:
       "An informative single-page app with admin roles, login, and upload/download document functionalities. It provides detailed content on a specific topic, allowing users to access, share, and manage relevant files easily ",
     tech: "Angular.js, Firebase, HTML, CSS-Boostrap",
