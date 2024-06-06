@@ -104,7 +104,7 @@ export const projects = [
     img: tennis,
     description:
     "An intuitive single-page application that allows users to seamlessly register for championships, while providing administrators with efficient tools to manage championships, participants, and scores",
-    tech: "Next.js, Javascript, Tailwind, Firebase, Node.js",
+    tech: "Next.js, Javascript, Tailwind, Firebase",
     link: "https://tennis-championship.vercel.app/",
   },
   {
