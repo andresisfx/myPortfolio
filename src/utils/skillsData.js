@@ -116,13 +116,13 @@ export const projects = [
     tech: "Angular.js, Firebase, HTML, CSS-Boostrap",
     link: "https://yadira-mayacweb.web.app/",
   },
-  {
-    name: "Pokemon App",
-    origin: "Individual Project for SoyHenry",
-    img: pokemon,
-    description:
-      "Single page application, with filters and creation form. consuming the pokemon api. Using PostgreSQL to save the created pokemons.",
-    tech: "React, Redux, Javascript, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
-    link: "https://pokemon-project-blue.vercel.app",
-  },
+  // {
+  //   name: "Pokemon App",
+  //   origin: "Individual Project for SoyHenry",
+  //   img: pokemon,
+  //   description:
+  //     "Single page application, with filters and creation form. consuming the pokemon api. Using PostgreSQL to save the created pokemons.",
+  //   tech: "React, Redux, Javascript, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
+  //   link: "https://pokemon-project-blue.vercel.app",
+  // },
 ];
