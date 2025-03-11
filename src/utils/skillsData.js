@@ -48,10 +48,6 @@ export const frontSkills = [
   {
     name: "Angular.js",
     img: angular,
-  },
-  {
-    name: "Next.js",
-    img: next,
   }
 ];
 
