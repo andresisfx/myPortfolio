@@ -13,7 +13,7 @@ import next from "../assets/next.png";
 import firebase from "../assets/firebase.png";
 import tennis from "../assets/tennis.png"
 import git from "../assets/git.png";
-
+import yadira from "../assets/Yadira.png"
 
 // PROJECTS
 
@@ -92,7 +92,7 @@ export const projects = [
     description:
       "Single page application, completly functional. with login, database, register of user, dashboards, statistics and much more",
     tech: "React, Redux, Javascript, Tailwind, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
-    link: "https://dev.fixershoes.com/",
+    link: "https://e-commerce.fixershoes.com/",
   },
   {
     name: "Tennis App",
@@ -100,16 +100,25 @@ export const projects = [
     img: tennis,
     description:
     "An intuitive single-page application that allows users to seamlessly register for championships, while providing administrators with efficient tools to manage championships, participants, and scores",
-    tech: "Next.js, Javascript, Tailwind, Firebase, Node.js",
+    tech: "Next.js, Javascript, Tailwind, Firebase",
     link: "https://tennis-championship.vercel.app/",
   },
   {
-    name: "Pokemon App",
-    origin: "Individual Project for SoyHenry",
-    img: pokemon,
+    name: "Yadira Mayac S.A.S",
+    origin: "Single page app for a colombian company",
+    img: yadira,
     description:
-      "Single page application, with filters and creation form. consuming the pokemon api. Using PostgreSQL to save the created pokemons.",
-    tech: "React, Redux, Javascript, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
-    link: "https://pokemon-project-blue.vercel.app",
+      "An informative single-page app with admin roles, login, and upload/download document functionalities. It provides detailed content on a specific topic, allowing users to access, share, and manage relevant files easily ",
+    tech: "Angular.js, Firebase, HTML, CSS-Boostrap",
+    link: "https://yadira-mayacweb.web.app/",
   },
+  // {
+  //   name: "Pokemon App",
+  //   origin: "Individual Project for SoyHenry",
+  //   img: pokemon,
+  //   description:
+  //     "Single page application, with filters and creation form. consuming the pokemon api. Using PostgreSQL to save the created pokemons.",
+  //   tech: "React, Redux, Javascript, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
+  //   link: "https://pokemon-project-blue.vercel.app",
+  // },
 ];
