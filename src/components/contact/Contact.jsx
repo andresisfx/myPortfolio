@@ -48,8 +48,8 @@ const Contact = () => {
             <h4>andresdev78@gmail.com</h4>
           </div>
           <div className={style.iconContact}>
-            <ion-icon name="call"></ion-icon>
-            <h4>+57 3107422301</h4>
+            <ion-icon name="logo-whatsapp"></ion-icon>
+            <h4><a href="https://wa.me/573107422301" target="_blank" style={{color: "white"}}>+57 3107422301</a></h4>
           </div>
         </div>
         <form ref={form} onSubmit={sendEmail}>

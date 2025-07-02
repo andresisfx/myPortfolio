@@ -8,15 +8,19 @@ const AboutMe = () => {
       <h3>About me</h3>
       <div className={style.divAboutAndSkills}>
         <div className={style.abouth4}>
-          <h4>
-           I'm an enthusiastic full-stack developer deeply immersed in the world of technology, driven by an unyielding commitment to continuous learning. My goal is to architect software solutions that solve intricate challenges, and I specialize in harnessing the power of technologies like JavaScript, React-Redux, Express, Node.js, and PostgreSQL to deliver streamlined and inventive outcomes.
-          </h4>
-          <h4>
-          I am actively seeking to contribute my skills and knowledge to a vibrant software development team. My aspiration is to dedicate my utmost effort, in exchange for a fulfilling experience and ongoing personal and professional growth. My dedication to delivering quality, meticulous attention to detail, and adaptability positions me as a valuable asset in any development setting.
-          </h4>
-          <h4>
-          Let's connect and explore possibilities for collaboration, innovation, and making a positive impact in the ever-evolving realm of technology.
-          </h4>
+            <h4>
+              I'm a passionate frontend developer with a strong focus on crafting engaging and responsive user interfaces. I specialize in modern web technologies like JavaScript, React, Redux, and Material UI to build intuitive and scalable applications.
+            </h4>
+            <h4>
+              I'm eager to contribute to dynamic development teams where I can apply my skills, grow professionally, and deliver meaningful user experiences. My commitment to clean code, attention to detail, and design-awareness allows me to bridge functionality with usability effectively.
+            </h4>
+            <h4>
+              While my core strength lies in frontend development, I'm also familiar with backend tools like Node.js, Express, and PostgreSQL, which helps me collaborate efficiently across the full stack.
+            </h4>
+            <h4>
+              Let's connect and explore ways to collaborate, innovate, and create impactful web experiences together.
+            </h4>
+
         </div>
         <MySkills />
       </div>

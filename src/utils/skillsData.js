@@ -14,7 +14,7 @@ import firebase from "../assets/firebase.png";
 import tennis from "../assets/tennis.png"
 import git from "../assets/git.png";
 import yadira from "../assets/Yadira.png"
-
+import journal from "../assets/Journal-App.jpg"
 // PROJECTS
 
 import pokemon from "../assets/pokemon.png";
@@ -95,6 +95,16 @@ export const projects = [
     link: "https://e-commerce.fixershoes.com/productos",
   },
   {
+    name: "Journal-App",
+    origin:
+      "React Project",
+    img: journal,
+    description:
+      "Single Page Application (SPA) to register users, authenticate via email/password or Google, and manage personal notes. Includes image upload with Cloudinary, real-time data storage with Firebase, and a user-friendly dashboard displaying note creation dates",
+    tech: "React, Redux-Toolkits,Javascript, Material-UI, CSS,Firebase-store, firebase auth, cloudinary",
+    link: "https://journal-app-material-ui-iota.vercel.app/",
+  },
+  {
     name: "Tennis App",
     origin: "technical test",
     img: tennis,
@@ -112,13 +122,5 @@ export const projects = [
     tech: "Angular.js, Firebase, HTML, CSS-Boostrap",
     link: "https://yadira-mayacweb.web.app/",
   },
-  // {
-  //   name: "Pokemon App",
-  //   origin: "Individual Project for SoyHenry",
-  //   img: pokemon,
-  //   description:
-  //     "Single page application, with filters and creation form. consuming the pokemon api. Using PostgreSQL to save the created pokemons.",
-  //   tech: "React, Redux, Javascript, Css, PostgreSQL, Express, Sequelize, Apis, Node.js",
-  //   link: "https://pokemon-project-blue.vercel.app",
-  // },
+
 ];
