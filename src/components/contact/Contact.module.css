@@ -115,10 +115,19 @@
     display: flex;
     gap: 15px;
     align-items: center;
+    transition: all 0.6s ease;
+}
+.iconContact:last-of-type a{
+    transition: all 0.6s ease ;
+}
+.iconContact:last-of-type a:hover {
+  font-size: 20px;
+  transition: all 0.6s ease;
+  color: #03ce0d !important
 }
 
 .iconContact h4 {
-    font-weight: 400;
+    font-weight: 600;
 }
 
 @media(min-width:880px) {

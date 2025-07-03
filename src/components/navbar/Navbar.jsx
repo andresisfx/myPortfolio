@@ -31,8 +31,9 @@ const NavBar = () => {
           >
             <ion-icon name="logo-linkedin"></ion-icon>
           </a>
-          <a href={pdf} target="_blank">
+          <a style={{textDecoration:"none"}} href={pdf} target="_blank">
             <ion-icon name="id-card-outline"></ion-icon>
+            <h2 style={{ marginLeft: "5px", fontSize: "25px",textDecoration:"none" }}>Curriculum</h2>
           </a>
         </div>
         <div className={style.idButtons}>

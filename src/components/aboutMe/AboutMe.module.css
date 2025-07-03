@@ -47,6 +47,8 @@
     color: #ffffff;
     word-spacing: 10px;
     font-family: 'Electrolize', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
 }
 
 @media(min-width:880px) {
